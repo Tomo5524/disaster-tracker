@@ -41,7 +41,6 @@ const Map = ({ eventData }) => {
                   height: `${6 * viewport.zoom}px`,
                   width: `${6 * viewport.zoom}px`,
                 }}
-                // size="3x"
               />
             ) : (
               <div className="skill icon-div">
